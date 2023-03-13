@@ -1,6 +1,6 @@
 # Random Graph Generator
 <p>
-    This is a group project for a program that generates random graphs, lets you edit it, and then prints the report.
+    This is a group university project for a program that generates random graphs, lets you edit it, and then prints the report.
 </p>
 <p>
     Program takes the following inputs to generate graph:
